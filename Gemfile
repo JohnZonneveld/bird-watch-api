@@ -20,7 +20,7 @@ gem "puma", ">= 4.3.8"
 # gem 'image_processing', '~> 1.2'
 
 gem "actionview", ">= 6.0.3.2"
-
+gem "activerecord", ">= 6.0.3.5"
 
 # Reduces boot times through caching; required in config/boot.rb
 gem 'bootsnap', '>= 1.4.2', require: false
