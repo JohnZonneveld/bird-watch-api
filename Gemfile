@@ -19,7 +19,7 @@ gem "puma", ">= 4.3.8"
 # Use Active Storage variant
 # gem 'image_processing', '~> 1.2'
 
-gem "actionview", ">= 6.0.3.3"
+gem "actionview", ">= 6.0.3.2"
 
 
 # Reduces boot times through caching; required in config/boot.rb
